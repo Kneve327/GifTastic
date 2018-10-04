@@ -9,3 +9,7 @@ p {
 button {
     margin-right: 10px;
 }
+
+#bands-form {
+  float: right;
+}
